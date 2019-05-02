@@ -1,3 +1,16 @@
+#Introduction
+## Le dossier 
+Ce dossier a été demandé dans le cadre des cours d'Outils Bureautiques et d'Architecture des ordinateurs et des réseaux informatiques lors de ma première année de Bachelier Bibliothécaire-Documentaire
+## La technologie
+
+## Le plan de classement
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Florades25/AORI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
