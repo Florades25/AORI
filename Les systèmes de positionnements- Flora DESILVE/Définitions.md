@@ -17,7 +17,7 @@ Retour à l'[Introduction](Introduction.md)
 ![définition de Wikipedia](https://user-images.githubusercontent.com/50196976/59036250-2e3ce180-886f-11e9-905c-19471d70dc83.PNG)
 
 3) /. La géolocalisation : définition, usages et limites | Orange Business Services [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.orange-business.com/fr/blogs/relation-client/contact-multicanal/la-geolocalisation-definition-usages-et-limites
-
+![Définition: ORANGE](https://user-images.githubusercontent.com/50196976/59036230-2a10c400-886f-11e9-8f8d-e119088ba369.PNG)
 
 ### Le système de posititonnement 
 
