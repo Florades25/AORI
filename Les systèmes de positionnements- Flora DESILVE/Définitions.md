@@ -11,7 +11,7 @@ Retour à l'[Introduction](Introduction.md)
 ### La géolocalisation/ Le géopositionnement
 
 1) L, e Parisien. Géopositionnement : définition de Géopositionnement et synonymes de Géopositionnement (français) [en ligne]. [s. d.]. [Consulté le 26 mai 2019]. Disponible à l’adresse : http://dictionnaire.sensagent.leparisien.fr/G%C3%A9opositionnement/fr-fr/
-
+![définition: le parisien](https://user-images.githubusercontent.com/50196976/59034582-938ed380-886b-11e9-9d38-a673cd1e9638.PNG)
 
 2) /. Géolocalisation — Wikipédia [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://fr.wikipedia.org/wiki/G%C3%A9olocalisation
 
