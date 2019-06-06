@@ -14,6 +14,7 @@ Retour à l'[Introduction](Introduction.md)
 ![définition: le parisien](https://user-images.githubusercontent.com/50196976/59034582-938ed380-886b-11e9-9d38-a673cd1e9638.PNG)
 
 2) /. Géolocalisation — Wikipédia [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://fr.wikipedia.org/wiki/G%C3%A9olocalisation
+![définition de Wikipedia](https://user-images.githubusercontent.com/50196976/59036250-2e3ce180-886f-11e9-905c-19471d70dc83.PNG)
 
 3) /. La géolocalisation : définition, usages et limites | Orange Business Services [en ligne]. [s. d.]. [Consulté le 2 mai 2019]. Disponible à l’adresse : https://www.orange-business.com/fr/blogs/relation-client/contact-multicanal/la-geolocalisation-definition-usages-et-limites
 
