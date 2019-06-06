@@ -10,8 +10,8 @@ j'y suis confrontéee tous les jours lors de mes escapades dans la ville, et mê
 et qui est utilisée par tous, tout le monde ne sait pas comment elle fonctionne. 
 
 ### Le plan de classement
-- [Définition](Définition.md)
+- [Définitions](Définitions.md)
 - [Historique](Historique.md) 
 - [Fonctionnement](Fonctionnement.md)
-- [Utilisation](Utilisation.md) 
+- [Utilisations](Utilisations.md) 
 - [Types](Types.md) 
