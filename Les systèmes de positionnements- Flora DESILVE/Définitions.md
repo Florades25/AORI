@@ -25,6 +25,8 @@ Retour à l'[Introduction](Introduction.md)
 ![défintion: syst. de pos.](https://user-images.githubusercontent.com/50196976/59036609-f1bdb580-886f-11e9-8c58-a81ce524a861.PNG)
 
 5) ARAYCRUST. Système de positionnement par satellites. Dans : L’Esprit Sorcier [en ligne]. 9 octobre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.lespritsorcier.org/blogs-membres/systeme-de-positionnement-satellites/
-![](https://user-images.githubusercontent.com/50196976/59036215-22511f80-886f-11e9-959b-ac604f1d8083.PNG)
+![espritsorcier](https://user-images.githubusercontent.com/50196976/59036225-2715d380-886f-11e9-9632-58b0d5e69083.PNG)
+
 
 6) KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en ligne]. octobre 2014. [Consulté le 6 juin 2019]. Disponible à l’adresse : http://www.geologie.ens.fr/~ecalais/teaching/geopotential/cours_gnss_stagem1_2014.pdf
+![](https://user-images.githubusercontent.com/50196976/59036215-22511f80-886f-11e9-959b-ac604f1d8083.PNG)
