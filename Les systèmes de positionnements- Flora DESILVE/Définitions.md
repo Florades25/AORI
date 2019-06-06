@@ -1,5 +1,4 @@
 # Les systèmes de positionnements 
-## Définitions
 
 Retour à l'[Introduction](Introduction.md)
 - **Définitions**
@@ -7,3 +6,7 @@ Retour à l'[Introduction](Introduction.md)
 - [Fonctionnement](Fonctionnement.md)
 - [Utilisations](Utilisations.md) 
 - [Types](Types.md) 
+
+## Définitions
+
+
