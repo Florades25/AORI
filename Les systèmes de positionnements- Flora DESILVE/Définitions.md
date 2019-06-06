@@ -22,6 +22,7 @@ Retour à l'[Introduction](Introduction.md)
 ### Le système de posititonnement 
 
 4) /. Système de positionnement par satellites. Dans : Wikipédia [en ligne]. 18 avril 2019. [Consulté le 25 mai 2019]. Disponible à l’adresse : https://fr.wikipedia.org/w/index.php?title=Syst%C3%A8me_de_positionnement_par_satellites&oldid=158529182. Page Version ID: 158529182
+![défintion: syst. de pos.](https://user-images.githubusercontent.com/50196976/59036609-f1bdb580-886f-11e9-8c58-a81ce524a861.PNG)
 
 5) ARAYCRUST. Système de positionnement par satellites. Dans : L’Esprit Sorcier [en ligne]. 9 octobre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.lespritsorcier.org/blogs-membres/systeme-de-positionnement-satellites/
 
