@@ -1,7 +1,7 @@
 # Les systèmes de positionnement
 ## Introduction
-### Le dossier 
-Ce dossier a été demandé dans le cadre des cours d'Outils Bureautiques et d'Architecture des ordinateurs et 
+### Le site
+Ce site a été demandé dans le cadre des cours d'Outils Bureautiques et d'Architecture des ordinateurs et 
 des réseaux informatiques lors de ma première année de Bachelier Bibliothécaire-Documentaire. 
 
 ### La technologie
