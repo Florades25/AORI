@@ -2,7 +2,7 @@
 ## Introduction
 ### Le site
 Ce site a été demandé dans le cadre des cours d'Outils Bureautiques et d'Architecture des ordinateurs et 
-des réseaux informatiques lors de ma première année de Bachelier Bibliothécaire-Documentaire. 
+des réseaux informatiques lors de ma première année de Bachelier Bibliothécaire-Documentaire. Il a pour but de rassembler des documents afin de créer une synthèse documentaire sur une technologie selon certains points de vue.
 
 ### La technologie
 J'ai choisi de faire des recherches sur la géolocalistaion, car n'habitant pas Bruxelles, 
