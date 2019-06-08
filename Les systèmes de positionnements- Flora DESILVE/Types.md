@@ -41,10 +41,16 @@ GRUHIER, Camille. Smartphones – Géolocalisation plus précise avec Galileo [e
 OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembre 2016. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.nouvelobs.com/societe/20161215.AFP3608/top-depart-pour-galileo-le-gps-europeen.html
 ![OBS](https://user-images.githubusercontent.com/50196976/59144393-973f6900-89d7-11e9-9d9e-83b7ab9aa362.PNG)
 
-#### système de positionnement en intérieur
+#### Système de positionnement en intérieur
 
 MAC, RYAN. La localisation indoor : état de l’art technologique (1/2) – Linux Embedded [en ligne]. [s. d.]. [Consulté le 8 juin 2019]. Disponible à l’adresse : http://www.linuxembedded.fr/2018/05/la-localisation-indoor-1/
 
 MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
 
 ![mapwize positionnement intérieur](https://user-images.githubusercontent.com/50196976/59151379-56287280-8a32-11e9-8b2f-f6a1a7ed8aab.PNG)
+#### Système de positionnement laser
+J'ai trouvé très peu de documents sur la "théorie" du positionnement laser, néanmoins, j'ai trouvé sur le site de produits à destination de la marine.
+
+ETM. Positionnement laser. Dans : ETM Marine [en ligne]. 25 février 2019. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://etm-marine.com/systemes-damarrage/unite-damarrage/positionnement-laser
+
+![etm marine](https://user-images.githubusercontent.com/50196976/59151508-a7396600-8a34-11e9-9851-a07a7eaa6333.PNG)
