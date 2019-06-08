@@ -30,3 +30,6 @@ Retour à l'[Introduction](Introduction.md)
 
 6) KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en ligne]. octobre 2014. [Consulté le 6 juin 2019]. Disponible à l’adresse : http://www.geologie.ens.fr/~ecalais/teaching/geopotential/cours_gnss_stagem1_2014.pdf
 ![](https://user-images.githubusercontent.com/50196976/59036215-22511f80-886f-11e9-959b-ac604f1d8083.PNG)
+
+MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
+![mapwize](https://user-images.githubusercontent.com/50196976/59151321-4cead600-8a31-11e9-82d4-1b89286bb308.PNG)
