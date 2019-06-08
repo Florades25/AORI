@@ -23,6 +23,7 @@ ARAYCRUST. Système de positionnement par satellites. Dans : L’Esprit Sorcie
 COMPANEO. Quels sont les différents systèmes de géolocalisation ? [en ligne]. [s. d.]. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.companeo.com/geolocalisation-de-vehicules/FAQ/systeme-geolocalisation-vehicule
 ![Companeo](https://user-images.githubusercontent.com/50196976/59144389-927ab500-89d7-11e9-89cd-09fd7f2dd464.PNG)
 
+
 HABIAN, Alexandre. Dossier : la guerre des systèmes de positionnement par satellite. Dans : Clubic.com [en ligne]. 17 juillet 2007. [Consulté le 22 mai 2019]. Disponible à l’adresse : https://www.clubic.com/actualite-76849-dossier-guerre-systemes-navigation-satellite.html
 ![Clubic](https://user-images.githubusercontent.com/50196976/59144388-91498800-89d7-11e9-8389-42d88a8388b2.PNG)
 
@@ -30,6 +31,7 @@ KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en l
 ![cours GNSS](https://user-images.githubusercontent.com/50196976/59144390-93abe200-89d7-11e9-96ff-a9b923cc1a97.PNG)
 
 ### Documents spécifiques
+#### Positionnement par staellite 
 /. TRANSIT (satellite) [en ligne]. [S. l.] : [s. n.], 2 juillet 2018. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://fr.wikipedia.org/w/index.php?title=TRANSIT_(satellite)&oldid=150007291. 
 ![Transit](https://user-images.githubusercontent.com/50196976/59144396-9c041d00-89d7-11e9-924f-086744cf8765.PNG)
 
@@ -38,3 +40,9 @@ GRUHIER, Camille. Smartphones – Géolocalisation plus précise avec Galileo [e
 
 OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembre 2016. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.nouvelobs.com/societe/20161215.AFP3608/top-depart-pour-galileo-le-gps-europeen.html
 ![OBS](https://user-images.githubusercontent.com/50196976/59144393-973f6900-89d7-11e9-9d9e-83b7ab9aa362.PNG)
+
+#### système de positionnement en intérieur
+
+MAC, RYAN. La localisation indoor : état de l’art technologique (1/2) – Linux Embedded [en ligne]. [s. d.]. [Consulté le 8 juin 2019]. Disponible à l’adresse : http://www.linuxembedded.fr/2018/05/la-localisation-indoor-1/
+
+MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
