@@ -46,3 +46,5 @@ OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembr
 MAC, RYAN. La localisation indoor : état de l’art technologique (1/2) – Linux Embedded [en ligne]. [s. d.]. [Consulté le 8 juin 2019]. Disponible à l’adresse : http://www.linuxembedded.fr/2018/05/la-localisation-indoor-1/
 
 MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
+
+![mapwize positionnement intérieur](https://user-images.githubusercontent.com/50196976/59151379-56287280-8a32-11e9-8b2f-f6a1a7ed8aab.PNG)
