@@ -15,3 +15,5 @@ et qui est utilisée par tous, tout le monde ne sait pas comment elle fonctionne
 - [Fonctionnement](Fonctionnement.md)
 - [Utilisations](Utilisations.md) 
 - [Types](Types.md) 
+    #### Généralités 
+    ####  Documents spécifiques 
