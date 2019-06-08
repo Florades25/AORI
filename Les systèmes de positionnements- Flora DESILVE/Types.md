@@ -20,6 +20,7 @@ ARAYCRUST. Système de positionnement par satellites. Dans : L’Esprit Sorcie
 COMPANEO. Quels sont les différents systèmes de géolocalisation ? [en ligne]. [s. d.]. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.companeo.com/geolocalisation-de-vehicules/FAQ/systeme-geolocalisation-vehicule
 
 HABIAN, Alexandre. Dossier : la guerre des systèmes de positionnement par satellite. Dans : Clubic.com [en ligne]. 17 juillet 2007. [Consulté le 22 mai 2019]. Disponible à l’adresse : https://www.clubic.com/actualite-76849-dossier-guerre-systemes-navigation-satellite.html
+![Clubic](https://user-images.githubusercontent.com/50196976/59144388-91498800-89d7-11e9-8389-42d88a8388b2.PNG)
 
 KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en ligne]. octobre 2014. [Consulté le 6 juin 2019]. Disponible à l’adresse : http://www.geologie.ens.fr/~ecalais/teaching/geopotential/cours_gnss_stagem1_2014.pdf
 
