@@ -33,3 +33,6 @@ Retour à l'[Introduction](Introduction.md)
 
 7) MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
 ![mapwize](https://user-images.githubusercontent.com/50196976/59151321-4cead600-8a31-11e9-82d4-1b89286bb308.PNG)
+
+
+                          [Retour en haut de la page](Définitions.md) 
