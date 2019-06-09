@@ -35,4 +35,4 @@ Retour à l'[Introduction](Introduction.md)
 ![mapwize](https://user-images.githubusercontent.com/50196976/59151321-4cead600-8a31-11e9-82d4-1b89286bb308.PNG)
 
 
-                          [Retour en haut de la page](Définitions.md) 
+[Retour en haut de la page](Définitions.md) 
