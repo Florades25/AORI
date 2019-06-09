@@ -36,5 +36,5 @@ KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en l
 Voir aussi [Définitions](Définitions.md); [Historique](Historique.md); [Fonctionnement](Fonctionnement.md) et [Types](Types.md)
 
 
-[Retour en haut de la page](Définitions.md) 
+[Retour en haut de la page](Utilisations.md) 
 
