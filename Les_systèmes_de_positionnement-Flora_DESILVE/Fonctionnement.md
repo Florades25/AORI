@@ -24,3 +24,5 @@ KLEIN, Emilie. Introduction aux Systèmes de Positionnement par Satellite [en l
 
 LAMOUREUX, Clément. Géolocalisation de précision en intérieur : où en est-on vraiment ? Dans : Blog Big Data & Digital [en ligne]. 27 mars 2018. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://fr.blog.businessdecision.com/digital/2018/03/geolocalisation-de-precision-interieur-ou-est-on/
 
+
+[Retour en haut de la page](Fonctionnement.md) 
