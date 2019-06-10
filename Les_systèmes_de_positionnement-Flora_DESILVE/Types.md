@@ -43,6 +43,11 @@ OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembr
 
 #### Système de positionnement en intérieur
 
+
+DESJARDINS, Phillipe. GEO|SENS: Ce qu’est la trilatération [en ligne]. [s. d.]. [Consulté le 10 juin 2019]. Disponible à l’adresse : http://geo-sens.blogspot.com/2013/03/ce-quest-la-trilateration.html
+
+![géosens](https://user-images.githubusercontent.com/50196976/59182914-38aaf400-8b6b-11e9-9712-b2c99e2b05c6.PNG)
+
 MAC, RYAN. La localisation indoor : état de l’art technologique (1/2) – Linux Embedded [en ligne]. [s. d.]. [Consulté le 8 juin 2019]. Disponible à l’adresse : http://www.linuxembedded.fr/2018/05/la-localisation-indoor-1/
 
 MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
@@ -50,11 +55,16 @@ MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2
 ![mapwize positionnement intérieur](https://user-images.githubusercontent.com/50196976/59151379-56287280-8a32-11e9-8b2f-f6a1a7ed8aab.PNG)
 
 
+GÉNEVÉ, Lionel. 2-Principe de la trilatération : les mesures de distance par rapport... | Download Scientific Diagram [en ligne]. septembre 2017. [Consulté le 10 juin 2019]. Disponible à l’adresse : https://www.researchgate.net/figure/Principe-de-la-trilateration-les-mesures-de-distance-par-rapport-aux-balises_fig12_323334761
+
 ![researchgate](https://user-images.githubusercontent.com/50196976/59182895-33e64000-8b6b-11e9-805f-89e5c23b43fb.PNG)
+
+
+THUZHEN. Trilatération. Dans : Se repérer dans l’espace [en ligne]. 23 janvier 2013. [Consulté le 10 juin 2019]. Disponible à l’adresse : https://thuzhen.wordpress.com/2013/01/23/triangulation-par-les-distances/
 
 ![thuzhen](https://user-images.githubusercontent.com/50196976/59182896-33e64000-8b6b-11e9-8c59-7d1a5a3aafdd.PNG)
 
-![géosens](https://user-images.githubusercontent.com/50196976/59182914-38aaf400-8b6b-11e9-9712-b2c99e2b05c6.PNG)
+
 
 
 #### Système de positionnement laser
