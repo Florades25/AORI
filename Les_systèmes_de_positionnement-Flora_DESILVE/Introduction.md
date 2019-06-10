@@ -14,6 +14,6 @@ et qui est utilisée par tous, tout le monde ne sait pas comment elle fonctionne
 - [Historique](Historique.md) 
 - [Fonctionnement](Fonctionnement.md)
 - [Utilisations](Utilisations.md) 
-- [Types](Types.md) /
+- [Types](Types.md) 
 1) Généralités 
 2) Documents spécifiques 
