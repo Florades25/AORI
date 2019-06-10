@@ -43,6 +43,9 @@ OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembr
 
 #### Système de positionnement en intérieur
 
+D., Christian. Google VPS : se positionner finement en intérieur grâce à la technologie Tango [en ligne]. 18 mai 2017. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.generation-nt.com/google-vps-tango-positionnement-indoor-cartographie-3d-actualite-1942591.html
+
+![google vps](https://user-images.githubusercontent.com/50196976/59186655-b672fd80-8b73-11e9-9eb9-009ac22a1ea7.PNG)
 
 DESJARDINS, Phillipe. GEO|SENS: Ce qu’est la trilatération [en ligne]. [s. d.]. [Consulté le 10 juin 2019]. Disponible à l’adresse : http://geo-sens.blogspot.com/2013/03/ce-quest-la-trilateration.html
 
