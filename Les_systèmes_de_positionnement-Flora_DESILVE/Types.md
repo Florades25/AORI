@@ -48,6 +48,7 @@ MAC, RYAN. La localisation indoor : état de l’art technologique (1/2) – L
 MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2018. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.mapwize.io/fr/articles/comment-fonctionne-la-geolocalisation-en-interieur
 
 ![mapwize positionnement intérieur](https://user-images.githubusercontent.com/50196976/59151379-56287280-8a32-11e9-8b2f-f6a1a7ed8aab.PNG)
+
 #### Système de positionnement laser
 J'ai trouvé très peu de documents sur la "théorie" du positionnement laser, néanmoins, j'ai trouvé sur le site de produits à destination de la marine.
 
