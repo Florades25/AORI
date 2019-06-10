@@ -10,6 +10,8 @@ j'y suis confrontéee tous les jours lors de mes escapades dans la ville, et mê
 et qui est utilisée par tous, tout le monde ne sait pas comment elle fonctionne. 
 
 ### Le plan de classement
+Les documents sont classés par thème, ensuite j'ai d'abord mis les documents généraux, et puis les spécifiques. 
+
 - [Définitions](Définitions.md)
 - [Historique](Historique.md) 
 - [Fonctionnement](Fonctionnement.md)
