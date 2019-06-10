@@ -41,7 +41,8 @@ GRUHIER, Camille. Smartphones – Géolocalisation plus précise avec Galileo [e
 OBS. Top départ pour Galileo, le « GPS européen » [en ligne]. 15 décembre 2016. [Consulté le 6 juin 2019]. Disponible à l’adresse : https://www.nouvelobs.com/societe/20161215.AFP3608/top-depart-pour-galileo-le-gps-europeen.html
 ![OBS](https://user-images.githubusercontent.com/50196976/59144393-973f6900-89d7-11e9-9d9e-83b7ab9aa362.PNG)
 
-<h4> Système de positionnement en intérieur
+#### Système de positionnement en intérieur
+  
 
 D., Christian. Google VPS : se positionner finement en intérieur grâce à la technologie Tango [en ligne]. 18 mai 2017. [Consulté le 8 juin 2019]. Disponible à l’adresse : https://www.generation-nt.com/google-vps-tango-positionnement-indoor-cartographie-3d-actualite-1942591.html
 
