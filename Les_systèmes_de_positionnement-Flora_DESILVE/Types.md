@@ -49,6 +49,14 @@ MAPWIZE. Comment fonctionne la géolocalisation en intérieur ? [en ligne]. 2
 
 ![mapwize positionnement intérieur](https://user-images.githubusercontent.com/50196976/59151379-56287280-8a32-11e9-8b2f-f6a1a7ed8aab.PNG)
 
+
+![researchgate](https://user-images.githubusercontent.com/50196976/59182895-33e64000-8b6b-11e9-805f-89e5c23b43fb.PNG)
+
+![thuzhen](https://user-images.githubusercontent.com/50196976/59182896-33e64000-8b6b-11e9-8c59-7d1a5a3aafdd.PNG)
+
+![géosens](https://user-images.githubusercontent.com/50196976/59182914-38aaf400-8b6b-11e9-9712-b2c99e2b05c6.PNG)
+
+
 #### Système de positionnement laser
 J'ai trouvé très peu de documents sur la "théorie" du positionnement laser, néanmoins, j'ai trouvé sur le site de produits à destination de la marine.
 
